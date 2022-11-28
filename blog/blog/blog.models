@@ -1,0 +1,2 @@
+>>> Post.objects.all()
+<QuerySet [<Post: my post title>, <Post: another post title>]>
